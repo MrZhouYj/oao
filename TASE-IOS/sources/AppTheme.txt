@@ -1,0 +1,19 @@
+NORMAL   NIGHT
+#ffffff  #0b1723   WhiteBackGroundColor
+#fbfbfc  #0b1723   GrayBackGroundColor
+#ffffff  #162131   WhiteItemBackGroundColor
+#2f354b  #ffffff   NormalBlackColor_191d26
+#c5c9db  #ffffff   NormalgrayColor_c5c9db
+#2f354b  #ffffff   BoldTextColor_1b1e2b
+#969ec1  #ffffff   SmallGrayTextColor_969ec1
+#eaeaea  #212d42   LineColor
+#ffffff  #1a2a40   TabBarBackGroundColor
+#edf5fc  #162131   SegmentBackGroundColor
+#191d26  #ffffff   NavcTitleColor
+#000000  #ffffff   WhiteAndBlack
+#6f6ff9  #162131   GrayBackgroundColor
+#191d26  #ffffff   TextFieldInputColor
+#262626  #ffffff   RowNotiColor
+#1e2667  #ffffff   NormalBlackColor_1e2667
+#f7f6fa  #1a2a40   TableViewSelectedBackgroundColor
+#a3a4bd  #a3a4bd   GrayTextColot_a3a4bd
