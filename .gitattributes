@@ -1,1 +1,1 @@
-framework/MGFaceIDLiveDetect.framework/MGFaceIDLiveDetect filter=lfs diff=lfs merge=lfs -text
+TASE-IOS/ThirdSDK/MGFaceIDLiveDetect/framework/MGFaceIDLiveDetect.framework/MGFaceIDLiveDetect filter=lfs diff=lfs merge=lfs -text
